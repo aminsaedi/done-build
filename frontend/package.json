@@ -37,7 +37,7 @@
     "jalali-react-datepicker": "^1.2.1",
     "jwt-decode": "^3.1.2",
     "lottie-react-native": "~2.6.1",
-    "moment": "^2.29.1",
+    "moment": "^2.29.4",
     "momentjs": "^2.0.0",
     "num2persian": "^3.2.2",
     "persian-date": "^1.1.0",
